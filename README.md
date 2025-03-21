@@ -1,3 +1,5 @@
+# YouTube-Data-Analysis-via-Web-Scraping
+
 I have build an Python Project to Scrape YouTube data using YouTube Data API. Using YouTube API, I extracted the data and then load this data into a Python Pandas DataFrame and then analyze this data. Finally, I had build a simple visualization from this data using the Python Seaborn library.
 
 In the first part, I have extracted channel details of top Data Analysts/Data Scientists, such as youtube channel name, total no of subscribers, total views and total number of videos posted by each channel and then compare these channel data with each other.
